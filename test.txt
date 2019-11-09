@@ -1,3 +1,8 @@
+1212121212
 Hello Git! 123
 It's line.
+<<<<<<< HEAD
 Add new line 23423
+=======
+
+>>>>>>> parent of f2ab9d6... Test status
